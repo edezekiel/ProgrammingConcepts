@@ -1,4 +1,4 @@
-//-------------JAVASCRIPT CHEAT SHEET-----------------//
+//-------------JAVASCRIPT FUNCTIONS-----------------//
   // Function Declaration
   // Function Expression
   // First Class Functions
